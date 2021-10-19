@@ -1,0 +1,93 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-size: cover;
+}
+
+.header_div {
+    background: white;
+    color: rgb(0, 0, 0);
+}
+
+.header_div img {
+    width: 102px;
+}
+
+.main_div {
+    background: rgb(147, 158, 223);
+    padding: 11px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label {
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 6px 5px 18px white;
+}
+
+#camera {
+    border: 2px solid white;
+    width: 315px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 7px 5px 18px rgb(92, 89, 121);
+    border: 2px solid;
+}
+
+.result {
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+    width: 80%;
+    box-shadow: 5px 5px 5px rgb(122, 119, 119);
+}
+
+h3 {
+    font-size: 30px;
+}
+
+#headdd {
+    font-size:35px;
+    font-style: italic;
+    color: white;
+}
+
+#heading {
+    font-size: 50px;
+    
+}
+
+h5, h4 {
+    color: white;
+}
+
+#conclusion {
+    color: rgb(0, 0, 0);
+    font-size: 27px;
+}
+
+img {
+    width: 450px;
+    height: 460px;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 10px;
+    border-style: dashed;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    font-family:'Abril Fatface', cursive;
+}
